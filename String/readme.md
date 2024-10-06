@@ -1,0 +1,1 @@
+<!-- string ends with null character \0 -->
